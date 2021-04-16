@@ -19,7 +19,7 @@ VOLUME ["/etlegacy"]
 
 WORKDIR /etlegacy/etmain
 
-COPY maps/ /etlegacy/etmain/
+COPY maps/ /etlegacy/
 
 USER etlegacy
 
